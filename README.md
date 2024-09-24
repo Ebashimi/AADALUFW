@@ -1,0 +1,2 @@
+# AADALUFW
+AddAndDeleteAllLocalUserFromWindows
